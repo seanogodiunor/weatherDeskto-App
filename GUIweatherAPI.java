@@ -323,29 +323,6 @@ public class GUIweatherAPI extends JFrame {
 		
 		
 		
-		
-		
-
-			
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		wallpapperPanel = new JPanel(){
             BufferedImage gi = printWallpapper();
             protected void paintComponent(Graphics gi) {
